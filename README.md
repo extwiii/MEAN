@@ -1,14 +1,5 @@
 # MEAN
-MEAN Stack Projects
-
-
-## Links to GitHub Repository (Master Branch)
-
-
-## Installation
-
-
-## Tools / Techniques
+Edx - MEAN Stack Projects
 
 
 Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
