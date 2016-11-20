@@ -1,6 +1,7 @@
 # MEAN
 Edx - MEAN Stack Projects
 
+* Assignment 1
 
 Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 
