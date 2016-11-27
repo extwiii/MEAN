@@ -6,6 +6,7 @@ Edx - MEAN Stack Projects
 * Assignment 3
 * Assignment 4
 * Assignment 5
+* Solution 1
 
 Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 
