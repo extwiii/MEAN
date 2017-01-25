@@ -8,6 +8,9 @@ Edx - MEAN Stack Projects
 * Assignment 5
 * Solution 1
 * Solution 2
+* Solution 3
+* Solution 4
+* Solution 5
 
 Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 
